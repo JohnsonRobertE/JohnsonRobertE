@@ -6,6 +6,5 @@
   <img src="https://komarev.com/ghpvc/?username=JohnsonRobertE&style=flat-square&color=blue" alt=""/>
   <h1 style="color:white">
     "The society that separates its scholars from its warriors will have its thinking done by cowards and its fighting by fools."  - William Butler
-  <img src="https://media.giphy.com/media/FZihyvNEbQqOFqxfWZ/giphy.gif"/>
 </h1>
 </div>
