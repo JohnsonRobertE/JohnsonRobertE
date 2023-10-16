@@ -10,10 +10,9 @@
     </h1>
   </div>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFvMzJvbW9saHVwdnkybWMyNW5ncnd5cDNnaGkxNDljOGJkejlteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fVPR3NSqLjVQFEPmP8/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
-### :man_technologist: About Me :
+### Languages and Tools :
+ <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+ </div>
